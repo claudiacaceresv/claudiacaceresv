@@ -5,7 +5,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 <div style="text-align: justify;">
-  <p>Data Scientist apasionada por descubrir historias ocultas en el caos de los datos. Considero cada conjunto de datos como un rompecabezas intrigante, y mi misión es destilar conocimientos valiosos que guíen decisiones informadas.</p>
+  <p>Data Scientist buscando descubrir historias ocultas en el caos de los datos. Considero cada conjunto de datos como un rompecabezas intrigante, y mi misión es destilar conocimientos valiosos que guíen decisiones informadas.</p>
   <p>Mi background en educación amplía mi perspectiva, dotándome de herramientas pedagógicas para comunicar complejas ideas analíticas de manera accesible. Busco que mi pasión no solo aporte claridad a los datos, sino también alivie los desafíos de aquellos cuyas pasiones y profesiones difieren de las mías.</p>
   <p>A través de tecnologías como Python, SQL y Power BI, transformo datos crudos en insights impactantes utilizando pipelines de datos cuidadosamente diseñados. Mi brújula personal me lleva a explorar nuevos horizontes, y fuera del mundo de los datos, disfruto de la música, la exploración de la naturaleza y la inmersión en libros de ficción.</p>
   <p>Estoy emocionada por conectarme con mentes afines y colaborar en proyectos que desafíen mis propios límites.</p>
