@@ -13,9 +13,16 @@
   <!-- Línea divisoria -->
   <hr>
    <!-- Encabezado de Tecnologías -->
-  <h2>Tecnologías</h2>
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/my-sql.png" alt="my-sql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/google-sheets.png" alt="google-sheets"/>
+<h2>Tecnologías</h2>
+<img src="https://img.shields.io/badge/Python-black?logo=python&logoColor=3e7aaa&color=black"/>
+<img src="https://img.shields.io/badge/Pandas-black?logo=pandas&logoColor=white&color=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-black?logo=powerbi&logoColor=fec900&color=black"/>
+<img src="https://img.shields.io/badge/scikit--learn-black?logo=scikit-learn&logoColor=f7931e&color=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-black?logo=matplotlib&logoColor=3b4d7c&color=black"/>
+<img src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=e77d0a&color=black"/>
+<img src="https://img.shields.io/badge/FastAPI-black?logo=fastapi">
+<img src="https://img.shields.io/badge/Excel-black?logo=microsoft-excel&logoColor=217346&color=black"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-black?logo=google-sheets&logoColor=4caf50&color=black"/>
    <!-- Línea divisoria -->
   <hr>
   <!-- Encabezado de Tecnologías -->
