@@ -80,6 +80,10 @@
 
   <!-- Plus -->
   <img src="https://img.shields.io/badge/Flutter-black?logo=flutter&logoColor=02569B&color=black" alt="Flutter"/>
+  
+  <!-- Infra & hosting -->
+  <img src="https://img.shields.io/badge/Firebase-black?logo=firebase&logoColor=FFCA28&color=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Railway-black?logo=railway&logoColor=white&color=black" alt="Railway"/>
 
 </p>
 
