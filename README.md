@@ -16,9 +16,9 @@
   </svg>
 
   <p style="max-width:860px; text-align:justify">
-    Ingeniera Python especializada en <strong>automatización de datos</strong> y <strong>Django</strong>.
+    <strong>Desarrolladora Python</strong> especializada en <strong>automatización de datos</strong> y <strong>Django</strong>.
     Diseño y opero <strong>pipelines ETL idempotentes</strong>, <strong>APIs y sistemas administrativos</strong> listos para producción,
-    y <strong>reportes PDF/HTML</strong> con métricas y alertas. 100% remoto. Compensación en <strong>USD/EUR</strong>.
+    y <strong>reportes </strong> con métricas y alertas.
   </p>
 
   <img src="https://img.shields.io/badge/Open%20to%20work-Remote%20only-black?labelColor=black" alt="Open to work remoto"/>
@@ -27,21 +27,13 @@
 
 <hr>
 
-<h2>Lo que entrego</h2>
+<h2>Mi trabajo</h2>
 <ul>
-  <li><strong>ETL/ELT</strong>: extracción desde APIs/CSV/DB, validación de esquemas, <em>upsert</em> en Postgres, control de duplicados, <em>retry</em> con backoff.</li>
-  <li><strong>Django admin prod-ready</strong>: roles y permisos, auditoría de cambios, tareas con Celery/Beat, <em>healthchecks</em>, seguridad y buenas prácticas.</li>
-  <li><strong>Observabilidad</strong>: logs estructurados, métricas (Prometheus), trazas, alertas y tableros mínimos.</li>
-  <li><strong>Reporting a medida</strong>: HTML/PDF con Jinja2/WeasyPrint, KPIs por período, envío automático (email/webhook) y histórico consultable.</li>
+  <li><strong>ETL/ELT</strong>: <strong>web scraping</strong> y extracción desde APIs/CSV/DB, validación de esquemas, <em>upsert</em> en Postgres, control de duplicados y <em>retry</em> con backoff.</li>
+  <li><strong>Django admin prod-ready</strong>: roles y permisos, auditoría de cambios, tareas en background y programadas (<em>Celery</em> + <em>Beat</em>), <em>healthchecks</em>, seguridad y buenas prácticas.</li>
+  <li><strong>Observabilidad</strong>: logs estructurados, métricas (Prometheus), trazas, alertas y tableros.</li>
+  <li><strong>Reporting a medida</strong>: envío por email/webhook; formatos <em>HTML/PDF</em> (Jinja2/WeasyPrint), <em>Excel</em>, <em>Power BI</em> o el que se necesite; KPIs por período e histórico consultable.</li>
   <li><strong>CI/CD</strong>: tests, linters, build Docker, migraciones y <em>rollback</em> documentado con GitHub Actions.</li>
-</ul>
-
-<h2>Proyectos de muestra</h2>
-<p>Repos públicos orientados a producción (próximos hitos):</p>
-<ul>
-  <li><strong>etl-idempotente</strong> — Prefect · Postgres · métricas → <a href="https://github.com/tuusuario/etl-idempotente" target="_blank" rel="noopener">ver repo</a></li>
-  <li><strong>django-admin-prod</strong> — Roles · auditoría · Celery · healthchecks → <a href="https://github.com/tuusuario/django-admin-prod" target="_blank" rel="noopener">ver repo</a></li>
-  <li><strong>reportes-a-medida</strong> — PDF/HTML · KPIs · alertas → <a href="https://github.com/tuusuario/reportes-a-medida" target="_blank" rel="noopener">ver repo</a></li>
 </ul>
 
 <h2>Tecnologías</h2>
@@ -64,9 +56,6 @@
   <img src="https://img.shields.io/badge/Flutter-black?logo=flutter&logoColor=02569B&color=black" alt="Flutter"/>
 </p>
 
-<h2>Qué busco</h2>
-<p>Roles 100% remotos como <strong>Python Automation/ETL Engineer</strong>, <strong>Backend Python/Django Engineer</strong> o <strong>Data/BI Engineer</strong>. Modalidad contractor en <strong>USD/EUR</strong>.</p>
-
 <h2>Contacto</h2>
 <p>
   <a href="https://www.linkedin.com/in/claudiacaceresv/" aria-label="LinkedIn">
@@ -77,6 +66,4 @@
   </a>
 </p>
 
-<!-- SEO: palabras clave para búsquedas de recruiters -->
-<!-- Python, Django, Data Engineer, ETL, ELT, Automation, Backend, REST API, Prefect, Airflow, Celery, PostgreSQL, Redis, FastAPI, Reporting, PDF, HTML, Observability, CI/CD, GitHub Actions, Power BI, Remote, USD, EUR -->
-
+<!-- SEO: Python, Django, Developer, Data Automation, ETL, ELT, Backend, REST API, Prefect, Airflow, Celery, PostgreSQL, Redis, FastAPI, Reporting, PDF, HTML, Observability, CI/CD, GitHub Actions, Power BI, Remote, USD, EUR -->
