@@ -18,7 +18,7 @@
   <p style="max-width:860px; text-align:justify">
     <strong>Desarrolladora Python</strong> especializada en <strong>automatización de datos</strong> y <strong>Django</strong>.
     Diseño y opero <strong>pipelines ETL idempotentes</strong>, <strong>APIs y sistemas administrativos</strong> listos para producción,
-    y <strong>reportes en HTML/PDF/Excel/Power BI</strong> con métricas y alertas. Trabajo 100% remoto. Compensación en <strong>USD/EUR</strong>.
+    y <strong>reportes en HTML/PDF/Excel/Power BI</strong> con métricas y alertas.
   </p>
 
 
